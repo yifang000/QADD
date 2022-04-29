@@ -18,8 +18,45 @@ a novel *de novo* multi-objective quality assessment-based drug design approach 
 - torch 1.8.1
 - skearn 0.21.3
 - numpy 1.20.1
+- dgl 0.6.1
 
 
+
+
+
+## Pipeline
+
+For the molecular quality assessment (QA) model (in the 'QA/' folder)
+
+1. convert SMILES strings to graph by generating "graph.bin" file
+
+   ```bash
+   python dataQA.py 
+   ```
+
+2. train the QA model
+
+   ```bash
+   python trainQA.py
+   ```
+
+3. predict
+
+   ```
+   python predictQA.py
+   ```
+
+
+
+For the deep reinforcement learning (RL) model (in the 'RL/' folder)
+
+1. 
+
+
+
+For the iterative refinement: retrained QA model every 5000 episode
+
+1. 
 
 
 
