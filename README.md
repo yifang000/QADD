@@ -19,6 +19,7 @@ a novel *de novo* multi-objective quality assessment-based drug design approach 
 - skearn 0.21.3
 - numpy 1.20.1
 - dgl 0.6.1
+- baselines
 
 
 
@@ -47,22 +48,14 @@ For the molecular quality assessment (QA) model (in the 'QA/' folder)
    ```
 
 
-
 For the deep reinforcement learning (RL) model (in the 'RL/' folder)
 
-1. 
-
+```
+python run_RL.py
+```
 
 
 For the iterative refinement: retrained QA model every 5000 episode
-
-1. 
-
-
-
-
-
-
 
 
 
