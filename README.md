@@ -19,6 +19,7 @@ a novel *de novo* multi-objective quality assessment-based drug design approach 
 - skearn 0.21.3
 - numpy 1.20.1
 - dgl 0.6.1
+- rdkit
 - baselines
 
 
