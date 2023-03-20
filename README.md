@@ -59,7 +59,7 @@ python run_RL.py
 For the iterative refinement: retrained QA model every 5000 episode
 
 ## LISENCE
-- All materials are made available under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0) license. You can find details at: CCBY4.0
+- All materials are made available under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0) license. You can find details at: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 - The license gives permission for academic use only.
 
 ## Contact
